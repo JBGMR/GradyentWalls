@@ -1,2 +1,2 @@
 # GradyentWalls
-Some gradient wallpapers
+Some nice and simple gradient wallpapers for you.
